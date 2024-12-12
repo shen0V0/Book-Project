@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "732186067682",
+    "project_id": "fp-bookstuff-firebase",
+    "storage_bucket": "fp-bookstuff-firebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732186067682:android:e0065013870d55582154bb",
+        "android_client_info": {
+          "package_name": "com.example.book_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOGcZ9ojRo-hoGTsXsEW56R9X1Cj7ghYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
